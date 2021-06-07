@@ -1,5 +1,5 @@
 {
-  "name": "easy-gmail",
+  "name": "easy-node-gmail",
   "version": "1.0.0",
   "description": "Quick and easy way to use Gmail from any backend server",
   "main": "dist/index.js",
